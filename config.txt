@@ -1,0 +1,28 @@
+# Required settings
+# -----------------
+token = NjU1NDg2MzkxMDEwMDY2NDQz.XfU7Aw.m2GHvs1YuPTFnvmFfMZ_Gx1WyZI
+mainGuildId = 655486228346568704
+mailGuildId = 655486228346568704
+logChannelId = 655486228346568707
+
+# Add new options below this line:
+# ----------------------------------
+allowMove = on
+attachmentStorage = discord
+attachmentStorageChannelId = 655486228346568707
+categoryAutomation.newThread = 655489095195164682
+closeMessage = Thanks for contacting us!
+enableGreeting = on
+greetingMessage[] = Welcome!
+greetingMessage[] = :)
+ignoreAccidentalThreads = on
+mentionRole =
+requiredAccountAge = 48
+responseMessage = Thanks for contacting us!
+status = Modmail!
+snippetPrefix = .
+snippetPrefixAnon = -
+threadTimestamps = on
+typingProxy = on
+useNicknames = on
+url = https://mini-albatross.glitch.me
