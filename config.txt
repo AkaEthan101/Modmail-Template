@@ -1,15 +1,15 @@
 # Required settings
 # -----------------
-token = NjU1NDg2MzkxMDEwMDY2NDQz.XfU7Aw.m2GHvs1YuPTFnvmFfMZ_Gx1WyZI
-mainGuildId = 655486228346568704
-mailGuildId = 655486228346568704
-logChannelId = 655486228346568707
+token = NjU4MjU5OTMzODU0NDMzMjgx.Xf9KVg.CRcnhjTzPEqJKq_E_ddXbCJnCBs
+mainGuildId = 733430359714431048
+mailGuildId = 700745840557424720
+logChannelId = 702899415857233940
 
 # Add new options below this line:
 # ----------------------------------
 allowMove = on
 attachmentStorage = discord
-attachmentStorageChannelId = 655486228346568707
+attachmentStorageChannelId = 748931460030791740
 categoryAutomation.newThread = 655489095195164682
 closeMessage = Thanks for contacting us!
 enableGreeting = on
